@@ -1,0 +1,850 @@
+[15:02:25] [main/INFO]: ModLauncher running: args [--username, SamGaga7, --version, forge-45.0.25, --gameDir, D:\CurseForge\minecraft\Instances\New minecraft, --assetsDir, D:\CurseForge\minecraft\Install\assets, --assetIndex, 3, --uuid, a000b4f6271b49c5a67a2bb483d6225b, --accessToken, ????????, --clientId, YTRjMzNhNTQtMzYwZC00OGFiLWI4ZjYtNjY3ZWYxMWVlZGU5, --xuid, 2535469036671412, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 45.0.25, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934]
+[15:02:25] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[15:02:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/CurseForge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2391!/ Service=ModLauncher Env=CLIENT
+[15:02:25] [main/WARN]: Configuration file D:\CurseForge\minecraft\Instances\New minecraft\config\fml.toml is not correct. Correcting
+[15:02:25] [main/WARN]: Incorrect key [defaultConfigPath] was corrected from null to defaultconfigs
+[15:02:25] [main/INFO]: Found mod file 3dskinlayers-forge-1.5.3-mc1.19.4.jar of type MOD with provider {mods folder locator at D:\CurseForge\minecraft\Instances\New minecraft\mods}
+[15:02:25] [main/INFO]: Found mod file appleskin-forge-mc1.19.4-2.4.3.jar of type MOD with provider {mods folder locator at D:\CurseForge\minecraft\Instances\New minecraft\mods}
+[15:02:25] [main/INFO]: Found mod file comforts-forge-6.2.0+1.19.4.jar of type MOD with provider {mods folder locator at D:\CurseForge\minecraft\Instances\New minecraft\mods}
+[15:02:25] [main/INFO]: Found mod file corpse-1.19.4-1.0.3.jar of type MOD with provider {mods folder locator at D:\CurseForge\minecraft\Instances\New minecraft\mods}
+[15:02:25] [main/INFO]: Found mod file journeymap-1.19.4-5.9.4beta2-forge.jar of type MOD with provider {mods folder locator at D:\CurseForge\minecraft\Instances\New minecraft\mods}
+[15:02:25] [main/INFO]: Found mod file mcw-doors-1.0.9forge-mc1.19.4.jar of type MOD with provider {mods folder locator at D:\CurseForge\minecraft\Instances\New minecraft\mods}
+[15:02:25] [main/INFO]: Found mod file mcw-fences-1.0.7-mc1.19.4forge.jar of type MOD with provider {mods folder locator at D:\CurseForge\minecraft\Instances\New minecraft\mods}
+[15:02:25] [main/WARN]: Mod file D:\CurseForge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.19.4-45.0.25\fmlcore-1.19.4-45.0.25.jar is missing mods.toml file
+[15:02:25] [main/WARN]: Mod file D:\CurseForge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.19.4-45.0.25\javafmllanguage-1.19.4-45.0.25.jar is missing mods.toml file
+[15:02:25] [main/WARN]: Mod file D:\CurseForge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.4-45.0.25\lowcodelanguage-1.19.4-45.0.25.jar is missing mods.toml file
+[15:02:25] [main/WARN]: Mod file D:\CurseForge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.19.4-45.0.25\mclanguage-1.19.4-45.0.25.jar is missing mods.toml file
+[15:02:25] [main/INFO]: Found mod file fmlcore-1.19.4-45.0.25.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61f2c3f0
+[15:02:25] [main/INFO]: Found mod file javafmllanguage-1.19.4-45.0.25.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61f2c3f0
+[15:02:25] [main/INFO]: Found mod file lowcodelanguage-1.19.4-45.0.25.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61f2c3f0
+[15:02:25] [main/INFO]: Found mod file mclanguage-1.19.4-45.0.25.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61f2c3f0
+[15:02:25] [main/INFO]: Found mod file client-1.19.4-20230314.122934-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61f2c3f0
+[15:02:25] [main/INFO]: Found mod file forge-1.19.4-45.0.25-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61f2c3f0
+[15:02:25] [main/INFO]: Found 1 dependencies adding them to mods collection
+[15:02:25] [main/INFO]: Found mod file spectrelib-forge-0.12.4+1.19.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@79ab34c1
+[15:02:27] [main/INFO]: Compatibility level set to JAVA_17
+[15:02:27] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-45.0.25, --gameDir, D:\CurseForge\minecraft\Instances\New minecraft, --assetsDir, D:\CurseForge\minecraft\Install\assets, --uuid, a000b4f6271b49c5a67a2bb483d6225b, --username, SamGaga7, --assetIndex, 3, --accessToken, ????????, --clientId, YTRjMzNhNTQtMzYwZC00OGFiLWI4ZjYtNjY3ZWYxMWVlZGU5, --xuid, 2535469036671412, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[15:02:31] [Datafixer Bootstrap/INFO]: 180 Datafixer optimizations took 116 milliseconds
+[15:02:33] [Render thread/WARN]: Assets URL 'union:/D:/CurseForge/minecraft/Install/libraries/net/minecraft/client/1.19.4-20230314.122934/client-1.19.4-20230314.122934-srg.jar%23160!/assets/.mcassetsroot' uses unexpected schema
+[15:02:33] [Render thread/WARN]: Assets URL 'union:/D:/CurseForge/minecraft/Install/libraries/net/minecraft/client/1.19.4-20230314.122934/client-1.19.4-20230314.122934-srg.jar%23160!/data/.mcassetsroot' uses unexpected schema
+[15:02:33] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:02:33] [Render thread/INFO]: Setting user: SamGaga7
+[15:02:33] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[15:02:34] [modloading-worker-0/INFO]: Forge mod loading, version 45.0.25, for MC 1.19.4 with MCP 20230314.122934
+[15:02:34] [modloading-worker-0/INFO]: MinecraftForge v45.0.25 Initialized
+[15:02:34] [modloading-worker-0/WARN]: Configuration file D:\CurseForge\minecraft\Instances\New minecraft\config\appleskin-client.toml is not correct. Correcting
+[15:02:34] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:02:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodValuesInTooltip was corrected from null to its default, true. 
+[15:02:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodValuesInTooltipAlways was corrected from null to its default, true. 
+[15:02:34] [modloading-worker-0/WARN]: Incorrect key client.showSaturationHudOverlay was corrected from null to its default, true. 
+[15:02:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodValuesHudOverlay was corrected from null to its default, true. 
+[15:02:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodValuesHudOverlayWhenOffhand was corrected from null to its default, true. 
+[15:02:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodExhaustionHudUnderlay was corrected from null to its default, true. 
+[15:02:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodStatsInDebugOverlay was corrected from null to its default, true. 
+[15:02:34] [modloading-worker-0/WARN]: Incorrect key client.showFoodHealthHudOverlay was corrected from null to its default, true. 
+[15:02:34] [modloading-worker-0/WARN]: Incorrect key client.showVanillaAnimationsOverlay was corrected from null to its default, true. 
+[15:02:34] [modloading-worker-0/WARN]: Incorrect key client.maxHudOverlayFlashAlpha was corrected from null to its default, 0.65. 
+[15:02:37] [Render thread/INFO]: Registering Keybinds
+[15:02:37] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[15:02:38] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources
+[15:02:38] [modloading-worker-0/WARN]: Configuration file D:\CurseForge\minecraft\Instances\New minecraft\config\forge-client.toml is not correct. Correcting
+[15:02:38] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:02:38] [modloading-worker-0/WARN]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to its default, false. 
+[15:02:38] [modloading-worker-0/WARN]: Incorrect key client.experimentalForgeLightPipelineEnabled was corrected from null to its default, false. 
+[15:02:38] [modloading-worker-0/WARN]: Incorrect key client.showLoadWarnings was corrected from null to its default, true. 
+[15:02:38] [modloading-worker-0/WARN]: Incorrect key client.useCombinedDepthStencilAttachment was corrected from null to its default, false. 
+[15:02:38] [modloading-worker-0/WARN]: Incorrect key client.compressLanIPv6Addresses was corrected from null to its default, true. 
+[15:02:38] [modloading-worker-0/WARN]: Configuration file D:\CurseForge\minecraft\Instances\New minecraft\config\forge-common.toml is not correct. Correcting
+[15:02:38] [modloading-worker-0/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:02:38] [modloading-worker-0/WARN]: Incorrect key general.cachePackAccess was corrected from null to its default, true. 
+[15:02:38] [modloading-worker-0/WARN]: Incorrect key general.indexVanillaPackCachesOnThread was corrected from null to its default, false. 
+[15:02:38] [modloading-worker-0/WARN]: Incorrect key general.indexModPackCachesOnThread was corrected from null to its default, false. 
+[15:02:38] [Worker-Main-2/INFO]: No plugins for JourneyMap API discovered.
+[15:02:39] [Render thread/INFO]: Initializing Packet Registries
+[15:02:39] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15:02:40] [Forge Version Check/INFO]: [forge] Found status: BETA Current: 45.0.25 Target: 45.0.25
+[15:02:40] [Forge Version Check/INFO]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[15:02:40] [Forge Version Check/INFO]: [mcwdoors] Found status: AHEAD Current: 1.0.9 Target: null
+[15:02:40] [Forge Version Check/INFO]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[15:02:40] [Render thread/INFO]: Journeymap Initializing
+[15:02:40] [Forge Version Check/INFO]: [mcwfences] Found status: UP_TO_DATE Current: 1.0.7 Target: null
+[15:02:40] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[15:02:41] [Forge Version Check/INFO]: [journeymap] Found status: BETA Current: 5.9.4beta2 Target: 5.9.4beta2
+[15:02:41] [Forge Version Check/INFO]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[15:02:41] [Forge Version Check/INFO]: [corpse] Found status: UP_TO_DATE Current: 1.19.4-1.0.3 Target: null
+[15:02:44] [Render thread/WARN]: Missing sound for event: minecraft:item.brush.brushing
+[15:02:44] [Render thread/WARN]: Missing sound for event: minecraft:item.brush.brush_sand_completed
+[15:02:44] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[15:02:44] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[15:02:44] [Render thread/WARN]: Missing sound for event: minecraft:music.overworld.cherry_grove
+[15:02:44] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Lautsprecher (Synaptics Audio)
+[15:02:44] [Render thread/INFO]: Sound engine started
+[15:02:45] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[15:02:45] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[15:02:45] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:02:45] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:02:45] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[15:02:45] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[15:02:45] [Render thread/INFO]: Created: 64x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[15:02:45] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[15:02:45] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:02:45] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[15:02:46] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:02:46] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:02:46] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[15:03:19] [Render thread/INFO]: Loaded 7 recipes
+[15:03:20] [Render thread/INFO]: Loaded 1243 advancements
+[15:03:21] [Render thread/INFO]: Loaded 7 recipes
+[15:03:21] [Render thread/INFO]: Loaded 1243 advancements
+[15:04:05] [Server thread/INFO]: Starting integrated minecraft server version 1.19.4
+[15:04:05] [Server thread/INFO]: Generating keypair
+[15:04:05] [Server thread/WARN]: Configuration file D:\CurseForge\minecraft\Instances\New minecraft\saves\Creative Test\serverconfig\corpse-server.toml is not correct. Correcting
+[15:04:05] [Server thread/WARN]: Incorrect key corpse was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:04:05] [Server thread/WARN]: Incorrect key corpse.access was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:04:05] [Server thread/WARN]: Incorrect key corpse.access.only_owner was corrected from null to its default, false. 
+[15:04:05] [Server thread/WARN]: Incorrect key corpse.access.skeleton was corrected from null to its default, false. 
+[15:04:05] [Server thread/WARN]: Incorrect key corpse.despawn was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:04:05] [Server thread/WARN]: Incorrect key corpse.despawn.time was corrected from null to its default, 600. 
+[15:04:05] [Server thread/WARN]: Incorrect key corpse.despawn.force_time was corrected from null to its default, -1. 
+[15:04:05] [Server thread/WARN]: Incorrect key corpse.skeleton_time was corrected from null to its default, 72000. 
+[15:04:05] [Server thread/WARN]: Incorrect key corpse.lie_on_face was corrected from null to its default, false. 
+[15:04:05] [Server thread/WARN]: Incorrect key corpse.show_equipment was corrected from null to its default, true. 
+[15:04:05] [Server thread/WARN]: Incorrect key corpse.fall_into_void was corrected from null to its default, false. 
+[15:04:05] [Server thread/WARN]: Incorrect key corpse.lava_damage was corrected from null to its default, false. 
+[15:04:05] [Server thread/WARN]: Incorrect key death_storage_duration was corrected from null to its default, -1. 
+[15:04:05] [Server thread/WARN]: Configuration file D:\CurseForge\minecraft\Instances\New minecraft\saves\Creative Test\serverconfig\journeymap-server.toml is not correct. Correcting
+[15:04:05] [Server thread/WARN]: Incorrect key admins was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:04:05] [Server thread/WARN]: Incorrect key admins.opAccess was corrected from null to its default, true. 
+[15:04:05] [Server thread/WARN]: Incorrect key admins.serverAdmins was corrected from null to its default, [mysticdrew, 79f597fe-2877-4ecb-acdf-8c58cc1854ca]. 
+[15:04:05] [Server thread/WARN]: Configuration file D:\CurseForge\minecraft\Instances\New minecraft\saves\Creative Test\serverconfig\forge-server.toml is not correct. Correcting
+[15:04:05] [Server thread/WARN]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[15:04:05] [Server thread/WARN]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[15:04:05] [Server thread/WARN]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[15:04:05] [Server thread/WARN]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[15:04:05] [Server thread/WARN]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[15:04:05] [Server thread/WARN]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[15:04:05] [Server thread/WARN]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[15:04:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:04:11] [Render thread/INFO]: Preparing spawn area: 0%
+[15:04:11] [Render thread/INFO]: Preparing spawn area: 0%
+[15:04:11] [Render thread/INFO]: Preparing spawn area: 0%
+[15:04:11] [Render thread/INFO]: Preparing spawn area: 0%
+[15:04:12] [Render thread/INFO]: Preparing spawn area: 0%
+[15:04:12] [Render thread/INFO]: Preparing spawn area: 0%
+[15:04:13] [Render thread/INFO]: Preparing spawn area: 0%
+[15:04:13] [Render thread/INFO]: Preparing spawn area: 1%
+[15:04:14] [Render thread/INFO]: Preparing spawn area: 2%
+[15:04:14] [Render thread/INFO]: Preparing spawn area: 2%
+[15:04:15] [Render thread/INFO]: Preparing spawn area: 4%
+[15:04:15] [Render thread/INFO]: Preparing spawn area: 5%
+[15:04:16] [Render thread/INFO]: Preparing spawn area: 7%
+[15:04:16] [Render thread/INFO]: Preparing spawn area: 8%
+[15:04:17] [Render thread/INFO]: Preparing spawn area: 10%
+[15:04:17] [Render thread/INFO]: Preparing spawn area: 11%
+[15:04:18] [Render thread/INFO]: Preparing spawn area: 13%
+[15:04:18] [Render thread/INFO]: Preparing spawn area: 15%
+[15:04:19] [Render thread/INFO]: Preparing spawn area: 16%
+[15:04:19] [Render thread/INFO]: Preparing spawn area: 18%
+[15:04:20] [Render thread/INFO]: Preparing spawn area: 19%
+[15:04:20] [Render thread/INFO]: Preparing spawn area: 22%
+[15:04:21] [Render thread/INFO]: Preparing spawn area: 23%
+[15:04:21] [Render thread/INFO]: Preparing spawn area: 25%
+[15:04:22] [Render thread/INFO]: Preparing spawn area: 27%
+[15:04:22] [Render thread/INFO]: Preparing spawn area: 28%
+[15:04:23] [Render thread/INFO]: Preparing spawn area: 31%
+[15:04:23] [Render thread/INFO]: Preparing spawn area: 33%
+[15:04:24] [Render thread/INFO]: Preparing spawn area: 34%
+[15:04:24] [Render thread/INFO]: Preparing spawn area: 36%
+[15:04:25] [Render thread/INFO]: Preparing spawn area: 37%
+[15:04:25] [Render thread/INFO]: Preparing spawn area: 39%
+[15:04:26] [Render thread/INFO]: Preparing spawn area: 42%
+[15:04:26] [Render thread/INFO]: Preparing spawn area: 45%
+[15:04:27] [Render thread/INFO]: Preparing spawn area: 45%
+[15:04:27] [Render thread/INFO]: Preparing spawn area: 46%
+[15:04:28] [Render thread/INFO]: Preparing spawn area: 49%
+[15:04:28] [Render thread/INFO]: Preparing spawn area: 51%
+[15:04:29] [Render thread/INFO]: Preparing spawn area: 53%
+[15:04:29] [Render thread/INFO]: Preparing spawn area: 54%
+[15:04:30] [Render thread/INFO]: Preparing spawn area: 56%
+[15:04:30] [Render thread/INFO]: Preparing spawn area: 57%
+[15:04:31] [Render thread/INFO]: Preparing spawn area: 58%
+[15:04:31] [Render thread/INFO]: Preparing spawn area: 60%
+[15:04:32] [Render thread/INFO]: Preparing spawn area: 62%
+[15:04:32] [Render thread/INFO]: Preparing spawn area: 63%
+[15:04:33] [Render thread/INFO]: Preparing spawn area: 65%
+[15:04:33] [Render thread/INFO]: Preparing spawn area: 68%
+[15:04:34] [Render thread/INFO]: Preparing spawn area: 69%
+[15:04:35] [Render thread/INFO]: Preparing spawn area: 71%
+[15:04:35] [Render thread/INFO]: Preparing spawn area: 71%
+[15:04:35] [Render thread/INFO]: Preparing spawn area: 71%
+[15:04:36] [Render thread/INFO]: Preparing spawn area: 71%
+[15:04:36] [Render thread/INFO]: Preparing spawn area: 72%
+[15:04:37] [Render thread/INFO]: Preparing spawn area: 73%
+[15:04:37] [Render thread/INFO]: Preparing spawn area: 74%
+[15:04:38] [Render thread/INFO]: Preparing spawn area: 76%
+[15:04:38] [Render thread/INFO]: Preparing spawn area: 78%
+[15:04:39] [Render thread/INFO]: Preparing spawn area: 81%
+[15:04:39] [Render thread/INFO]: Preparing spawn area: 83%
+[15:04:40] [Render thread/INFO]: Preparing spawn area: 85%
+[15:04:40] [Render thread/INFO]: Preparing spawn area: 86%
+[15:04:41] [Render thread/INFO]: Preparing spawn area: 87%
+[15:04:41] [Render thread/INFO]: Preparing spawn area: 89%
+[15:04:42] [Render thread/INFO]: Preparing spawn area: 90%
+[15:04:42] [Render thread/INFO]: Preparing spawn area: 92%
+[15:04:43] [Render thread/INFO]: Preparing spawn area: 95%
+[15:04:43] [Render thread/INFO]: Preparing spawn area: 97%
+[15:04:43] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[15:04:43] [Render thread/INFO]: Time elapsed: 33816 ms
+[15:04:44] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:04:44] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[15:04:44] [Render thread/WARN]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[15:04:45] [Netty Local Client IO #0/INFO]: Connected to a modded server.
+[15:04:45] [Server thread/INFO]: SamGaga7[local:E:ccfe844d] logged in with entity id 253 at (-4.5, 78.0, 6.5)
+[15:04:45] [Server thread/INFO]: SamGaga7 joined the game
+[15:04:47] [Render thread/INFO]: Loaded 2 advancements
+[15:04:49] [Render thread/INFO]: [System] [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[15:04:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[15:05:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3059ms or 61 ticks behind
+[15:06:43] [Render thread/INFO]: Loaded 33 advancements
+[15:06:55] [Render thread/INFO]: Loaded 36 advancements
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Who is Cutting Onions?]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [You've Got a Friend in Me]
+[15:09:01] [Server thread/INFO]: SamGaga7 has completed the challenge [With Our Powers Combined!]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Oh Shiny]
+[15:09:01] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Who is Cutting Onions?]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Suit Up]
+[15:09:01] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [You've Got a Friend in Me]
+[15:09:01] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [With Our Powers Combined!]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Very Very Frightening]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Hot Stuff]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Whatever Floats Your Goat!]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Free the End]
+[15:09:01] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Oh Shiny]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Surge Protector]
+[15:09:01] [Server thread/INFO]: SamGaga7 has completed the challenge [A Furious Cocktail]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Best Friends Forever]
+[15:09:01] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Suit Up]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Glow and Behold!]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Bring Home the Beacon]
+[15:09:01] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Very Very Frightening]
+[15:09:01] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Hot Stuff]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Not Today, Thank You]
+[15:09:01] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Whatever Floats Your Goat!]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [When the Squad Hops into Town]
+[15:09:01] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Free the End]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Isn't It Iron Pick]
+[15:09:01] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Surge Protector]
+[15:09:01] [Server thread/INFO]: SamGaga7 has made the advancement [Local Brewery]
+[15:09:01] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [A Furious Cocktail]
+[15:09:01] [Server thread/INFO]: SamGaga7 has reached the goal [The Next Generation]
+[15:09:01] [Server thread/INFO]: SamGaga7 has completed the challenge [It Spreads]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Fishy Business]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Best Friends Forever]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Hot Tourist Destinations]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Glow and Behold!]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Bring Home the Beacon]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Caves & Cliffs]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [This Boat Has Legs]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Sniper Duel]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Not Today, Thank You]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Great View From Up Here]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [When the Squad Hops into Town]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Isn't It Iron Pick]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [How Did We Get Here?]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Bullseye]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Local Brewery]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Spooky Scary Skeleton]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Two by Two]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Stone Age]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has reached the goal [The Next Generation]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [It Spreads]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Fishy Business]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Two Birds, One Arrow]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Hot Tourist Destinations]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [We Need to Go Deeper]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Who's the Pillager Now?]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Getting an Upgrade]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Caves & Cliffs]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Light as a Rabbit]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Tactical Fishing]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [This Boat Has Legs]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Sniper Duel]
+[15:09:02] [Server thread/INFO]: SamGaga7 has reached the goal [Zombie Doctor]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Great View From Up Here]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [The City at the End of the Game]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Ice Bucket Challenge]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Remote Getaway]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [How Did We Get Here?]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Into Fire]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Bullseye]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [War Pigs]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Take Aim]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Total Beelocation]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Arbalistic]
+[15:09:02] [Server thread/INFO]: SamGaga7 has reached the goal [The End... Again...]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Spooky Scary Skeleton]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Acquire Hardware]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Two by Two]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Not Quite "Nine" Lives]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Stone Age]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Cover Me with Diamonds]
+[15:09:02] [Server thread/INFO]: SamGaga7 has reached the goal [Sky's the Limit]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Bukkit Bukkit]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Wax Off]
+[15:09:02] [Server thread/INFO]: SamGaga7 has reached the goal [Hired Help]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Sneak 100]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Two Birds, One Arrow]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [We Need to Go Deeper]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Return to Sender]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Who's the Pillager Now?]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Sweet Dreams]
+[15:09:02] [Server thread/INFO]: SamGaga7 has reached the goal [You Need a Mint]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Getting an Upgrade]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Monsters Hunted]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Enchanter]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Voluntary Exile]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Light as a Rabbit]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Eye Spy]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Tactical Fishing]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Is It a Bird?]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has reached the goal [Zombie Doctor]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Serious Dedication]
+[15:09:02] [Server thread/INFO]: SamGaga7 has reached the goal [Postmortal]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Monster Hunter]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [The City at the End of the Game]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Adventuring Time]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Ice Bucket Challenge]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [A Seedy Place]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Those Were the Days]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Remote Getaway]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [The Cutest Predator]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Birthday Song]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Into Fire]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Is It a Plane?]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Feels Like Home]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Star Trader]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [War Pigs]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Take Aim]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Wax On]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Sound of Music]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Total Beelocation]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Hero of the Village]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Hidden in the Depths]
+[15:09:02] [Server thread/INFO]: SamGaga7 has reached the goal [Beaconator]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Withering Heights]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [A Balanced Diet]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Arbalistic]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Subspace Bubble]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has reached the goal [The End... Again...]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Acquire Hardware]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Country Lode, Take Me Home]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Bee Our Guest]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [What a Deal!]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Is It a Balloon?]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Uneasy Alliance]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Not Quite "Nine" Lives]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Diamonds!]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [The Healing Power of Friendship!]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [A Terrible Fortress]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [A Throwaway Joke]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Cover Me with Diamonds]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has reached the goal [Sky's the Limit]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Sticky Situation]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [Ol' Betsy]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Bukkit Bukkit]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [Cover Me in Debris]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [The End?]
+[15:09:02] [Server thread/INFO]: SamGaga7 has made the advancement [The Parrots and the Bats]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Wax Off]
+[15:09:02] [Server thread/INFO]: SamGaga7 has completed the challenge [A Complete Catalogue]
+[15:09:02] [Server thread/INFO]: [SamGaga7: Granted 1243 advancements to SamGaga7]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has reached the goal [Hired Help]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Sneak 100]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Return to Sender]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Sweet Dreams]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has reached the goal [You Need a Mint]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Monsters Hunted]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Enchanter]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Voluntary Exile]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Eye Spy]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Is It a Bird?]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Serious Dedication]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has reached the goal [Postmortal]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Monster Hunter]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Adventuring Time]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [A Seedy Place]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Those Were the Days]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [The Cutest Predator]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Birthday Song]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Is It a Plane?]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Feels Like Home]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Star Trader]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Wax On]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Sound of Music]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Hero of the Village]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Hidden in the Depths]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has reached the goal [Beaconator]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Withering Heights]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [A Balanced Diet]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Subspace Bubble]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Country Lode, Take Me Home]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Bee Our Guest]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [What a Deal!]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Is It a Balloon?]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Uneasy Alliance]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Diamonds!]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [The Healing Power of Friendship!]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [A Terrible Fortress]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [A Throwaway Joke]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Sticky Situation]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [Ol' Betsy]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [Cover Me in Debris]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [The End?]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has made the advancement [The Parrots and the Bats]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] SamGaga7 has completed the challenge [A Complete Catalogue]
+[15:09:02] [Render thread/INFO]: [System] [CHAT] Granted 1243 advancements to SamGaga7
+[15:09:02] [Render thread/INFO]: Loaded 1243 advancements
+[15:09:08] [Server thread/INFO]: Saving and pausing game...
+[15:09:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:overworld
+[15:09:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:the_nether
+[15:09:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:the_end
+[15:09:11] [Server thread/INFO]: Saving and pausing game...
+[15:09:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:overworld
+[15:09:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:the_nether
+[15:09:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:the_end
+[15:12:18] [Server thread/INFO]: Saving and pausing game...
+[15:12:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:overworld
+[15:12:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:the_nether
+[15:12:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:the_end
+[15:12:27] [Render thread/INFO]: Using default channel type
+[15:12:27] [Render thread/INFO]: Started serving on 5000
+[15:12:27] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [5000]
+[15:13:37] [User Authenticator #1/INFO]: UUID of player CodeXPs is 7e80abb5-2023-41e9-9287-55394cf8f757
+[15:13:39] [Server thread/INFO]: CodeXPs[/192.168.0.122:51526] logged in with entity id 3129 at (0.5, 78.0, 6.5)
+[15:13:39] [Server thread/INFO]: CodeXPs joined the game
+[15:13:39] [Render thread/INFO]: [System] [CHAT] CodeXPs joined the game
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Who is Cutting Onions?]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [You've Got a Friend in Me]
+[15:14:05] [Server thread/INFO]: CodeXPs has completed the challenge [With Our Powers Combined!]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Oh Shiny]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Who is Cutting Onions?]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [You've Got a Friend in Me]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [With Our Powers Combined!]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Oh Shiny]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Suit Up]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Very Very Frightening]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Hot Stuff]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Whatever Floats Your Goat!]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Free the End]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Surge Protector]
+[15:14:05] [Server thread/INFO]: CodeXPs has completed the challenge [A Furious Cocktail]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Suit Up]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Very Very Frightening]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Hot Stuff]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Whatever Floats Your Goat!]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Free the End]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Best Friends Forever]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Surge Protector]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [A Furious Cocktail]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Best Friends Forever]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Glow and Behold!]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Bring Home the Beacon]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Not Today, Thank You]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [When the Squad Hops into Town]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Isn't It Iron Pick]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Glow and Behold!]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Bring Home the Beacon]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Not Today, Thank You]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [When the Squad Hops into Town]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Isn't It Iron Pick]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Local Brewery]
+[15:14:05] [Server thread/INFO]: CodeXPs has reached the goal [The Next Generation]
+[15:14:05] [Server thread/INFO]: CodeXPs has completed the challenge [It Spreads]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Fishy Business]
+[15:14:05] [Server thread/INFO]: CodeXPs has completed the challenge [Hot Tourist Destinations]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [Caves & Cliffs]
+[15:14:05] [Server thread/INFO]: CodeXPs has made the advancement [This Boat Has Legs]
+[15:14:05] [Server thread/INFO]: CodeXPs has completed the challenge [Sniper Duel]
+[15:14:05] [Server thread/INFO]: CodeXPs has completed the challenge [Great View From Up Here]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Local Brewery]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has reached the goal [The Next Generation]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [It Spreads]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Fishy Business]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Hot Tourist Destinations]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Caves & Cliffs]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [This Boat Has Legs]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Sniper Duel]
+[15:14:05] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Great View From Up Here]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [How Did We Get Here?]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Bullseye]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Spooky Scary Skeleton]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Two by Two]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Stone Age]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [How Did We Get Here?]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Bullseye]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Spooky Scary Skeleton]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Two by Two]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Two Birds, One Arrow]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Stone Age]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Two Birds, One Arrow]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [We Need to Go Deeper]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Who's the Pillager Now?]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Getting an Upgrade]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Light as a Rabbit]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Tactical Fishing]
+[15:14:06] [Server thread/INFO]: CodeXPs has reached the goal [Zombie Doctor]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [The City at the End of the Game]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Ice Bucket Challenge]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [We Need to Go Deeper]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Who's the Pillager Now?]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Remote Getaway]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Getting an Upgrade]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Light as a Rabbit]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Tactical Fishing]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Into Fire]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has reached the goal [Zombie Doctor]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [The City at the End of the Game]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Ice Bucket Challenge]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Remote Getaway]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Into Fire]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [War Pigs]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Take Aim]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Total Beelocation]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Arbalistic]
+[15:14:06] [Server thread/INFO]: CodeXPs has reached the goal [The End... Again...]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Acquire Hardware]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Not Quite "Nine" Lives]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [War Pigs]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Take Aim]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Total Beelocation]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Arbalistic]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has reached the goal [The End... Again...]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Acquire Hardware]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Not Quite "Nine" Lives]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Cover Me with Diamonds]
+[15:14:06] [Server thread/INFO]: CodeXPs has reached the goal [Sky's the Limit]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Bukkit Bukkit]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Wax Off]
+[15:14:06] [Server thread/INFO]: CodeXPs has reached the goal [Hired Help]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Sneak 100]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Return to Sender]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Sweet Dreams]
+[15:14:06] [Server thread/INFO]: CodeXPs has reached the goal [You Need a Mint]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Cover Me with Diamonds]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has reached the goal [Sky's the Limit]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Bukkit Bukkit]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Wax Off]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has reached the goal [Hired Help]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Sneak 100]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Monsters Hunted]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Return to Sender]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Sweet Dreams]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has reached the goal [You Need a Mint]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Monsters Hunted]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Enchanter]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Voluntary Exile]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Eye Spy]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Is It a Bird?]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Serious Dedication]
+[15:14:06] [Server thread/INFO]: CodeXPs has reached the goal [Postmortal]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Monster Hunter]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Adventuring Time]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Enchanter]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [A Seedy Place]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Voluntary Exile]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Those Were the Days]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Eye Spy]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Is It a Bird?]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [The Cutest Predator]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Serious Dedication]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has reached the goal [Postmortal]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Monster Hunter]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Adventuring Time]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Birthday Song]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [A Seedy Place]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Those Were the Days]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Is It a Plane?]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [The Cutest Predator]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Birthday Song]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Is It a Plane?]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Feels Like Home]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Star Trader]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Wax On]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Sound of Music]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Hero of the Village]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Hidden in the Depths]
+[15:14:06] [Server thread/INFO]: CodeXPs has reached the goal [Beaconator]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Withering Heights]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [A Balanced Diet]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Subspace Bubble]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Feels Like Home]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Star Trader]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Wax On]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Sound of Music]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Hero of the Village]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Hidden in the Depths]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has reached the goal [Beaconator]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Country Lode, Take Me Home]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Withering Heights]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Bee Our Guest]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [A Balanced Diet]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [What a Deal!]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Subspace Bubble]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Is It a Balloon?]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Country Lode, Take Me Home]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Uneasy Alliance]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Bee Our Guest]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Diamonds!]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [What a Deal!]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Is It a Balloon?]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Uneasy Alliance]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [The Healing Power of Friendship!]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Diamonds!]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [The Healing Power of Friendship!]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [A Terrible Fortress]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [A Throwaway Joke]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Sticky Situation]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [Ol' Betsy]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [Cover Me in Debris]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [The End?]
+[15:14:06] [Server thread/INFO]: CodeXPs has made the advancement [The Parrots and the Bats]
+[15:14:06] [Server thread/INFO]: CodeXPs has completed the challenge [A Complete Catalogue]
+[15:14:06] [Server thread/INFO]: [SamGaga7: Granted 1243 advancements to CodeXPs]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [A Terrible Fortress]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [A Throwaway Joke]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Sticky Situation]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [Ol' Betsy]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [Cover Me in Debris]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [The End?]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has made the advancement [The Parrots and the Bats]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] CodeXPs has completed the challenge [A Complete Catalogue]
+[15:14:06] [Render thread/INFO]: [System] [CHAT] Granted 1243 advancements to CodeXPs
+[15:14:27] [Server thread/INFO]: [SamGaga7: Teleported 466 entities to SamGaga7]
+[15:14:27] [Render thread/INFO]: [System] [CHAT] Teleported 466 entities to SamGaga7
+[15:14:27] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[15:14:42] [Server thread/INFO]: [SamGaga7: Teleported 337 entities to SamGaga7]
+[15:14:42] [Render thread/INFO]: [System] [CHAT] Teleported 337 entities to SamGaga7
+[15:14:46] [Server thread/INFO]: [SamGaga7: Teleported 131 entities to SamGaga7]
+[15:14:46] [Render thread/INFO]: [System] [CHAT] Teleported 131 entities to SamGaga7
+[15:14:50] [Server thread/INFO]: [SamGaga7: Teleported 83 entities to SamGaga7]
+[15:14:50] [Render thread/INFO]: [System] [CHAT] Teleported 83 entities to SamGaga7
+[15:14:55] [Server thread/INFO]: [SamGaga7: Teleported 72 entities to SamGaga7]
+[15:14:55] [Render thread/INFO]: [System] [CHAT] Teleported 72 entities to SamGaga7
+[15:14:58] [Server thread/INFO]: [SamGaga7: Teleported 73 entities to SamGaga7]
+[15:14:58] [Render thread/INFO]: [System] [CHAT] Teleported 73 entities to SamGaga7
+[15:15:03] [Server thread/INFO]: [SamGaga7: Teleported 79 entities to SamGaga7]
+[15:15:03] [Render thread/INFO]: [System] [CHAT] Teleported 79 entities to SamGaga7
+[15:15:03] [Server thread/WARN]: CodeXPs moved too quickly! 13.499223158575631,0.0,3.6365491490272746
+[15:15:10] [Server thread/INFO]: [SamGaga7: Teleported 99 entities to SamGaga7]
+[15:15:10] [Render thread/INFO]: [System] [CHAT] Teleported 99 entities to SamGaga7
+[15:15:10] [Server thread/WARN]: CodeXPs moved too quickly! 31.069034304773083,-23.856389856661792,-8.499241774841643
+[15:15:11] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[15:15:28] [Server thread/INFO]: [SamGaga7: Teleported 80 entities to SamGaga7]
+[15:15:29] [Render thread/INFO]: [System] [CHAT] Teleported 80 entities to SamGaga7
+[15:15:45] [Server thread/INFO]: [SamGaga7: Teleported 96 entities to SamGaga7]
+[15:15:45] [Render thread/INFO]: [System] [CHAT] Teleported 96 entities to SamGaga7
+[15:15:48] [Server thread/INFO]: [SamGaga7: Teleported 83 entities to SamGaga7]
+[15:15:48] [Render thread/INFO]: [System] [CHAT] Teleported 83 entities to SamGaga7
+[15:15:49] [Server thread/INFO]: [SamGaga7: Teleported 74 entities to SamGaga7]
+[15:15:49] [Render thread/INFO]: [System] [CHAT] Teleported 74 entities to SamGaga7
+[15:15:49] [Server thread/WARN]: CodeXPs moved too quickly! 4.106770362832407,11.120944177923576,-7.103611176974304
+[15:15:50] [Server thread/INFO]: [SamGaga7: Teleported 59 entities to SamGaga7]
+[15:15:50] [Render thread/INFO]: [System] [CHAT] Teleported 59 entities to SamGaga7
+[15:15:52] [Server thread/INFO]: [SamGaga7: Teleported 55 entities to SamGaga7]
+[15:15:52] [Render thread/INFO]: [System] [CHAT] Teleported 55 entities to SamGaga7
+[15:16:48] [Server thread/INFO]: [SamGaga7: Set own game mode to Survival Mode]
+[15:16:48] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
+[15:16:59] [Server thread/INFO]: [SamGaga7: Applied 5.0 damage to SamGaga7]
+[15:16:59] [Render thread/INFO]: [System] [CHAT] Applied 5.0 damage to SamGaga7
+[15:17:03] [Server thread/INFO]: [SamGaga7: Applied 10.0 damage to SamGaga7]
+[15:17:03] [Render thread/INFO]: [System] [CHAT] Applied 10.0 damage to SamGaga7
+[15:17:11] [Server thread/INFO]: [SamGaga7: Applied 15.0 damage to SamGaga7]
+[15:17:11] [Render thread/INFO]: [System] [CHAT] Applied 15.0 damage to SamGaga7
+[15:17:20] [Server thread/INFO]: SamGaga7 died
+[15:17:20] [Render thread/INFO]: [System] [CHAT] SamGaga7 died
+[15:17:20] [Server thread/INFO]: [SamGaga7: Applied 19.0 damage to SamGaga7]
+[15:17:20] [Render thread/INFO]: [System] [CHAT] Applied 19.0 damage to SamGaga7
+[15:17:25] [Server thread/INFO]: [SamGaga7: Applied 19.0 damage to SamGaga7]
+[15:17:25] [Render thread/INFO]: [System] [CHAT] Applied 19.0 damage to SamGaga7
+[15:17:28] [Server thread/INFO]: SamGaga7 died
+[15:17:28] [Render thread/INFO]: [System] [CHAT] SamGaga7 died
+[15:17:28] [Server thread/INFO]: [SamGaga7: Applied 19.0 damage to SamGaga7]
+[15:17:28] [Render thread/INFO]: [System] [CHAT] Applied 19.0 damage to SamGaga7
+[15:17:31] [Render thread/INFO]: [System] [CHAT] Target is invulnerable to the given damage type
+[15:17:37] [Server thread/INFO]: [SamGaga7: Applied 19.0 damage to SamGaga7]
+[15:17:37] [Render thread/INFO]: [System] [CHAT] Applied 19.0 damage to SamGaga7
+[15:17:58] [Render thread/WARN]: Unknown custom packet identifier: corpse:default
+[15:18:16] [Render thread/INFO]: [System] [CHAT] Unknown or incomplete command, see below for error
+[15:18:16] [Render thread/INFO]: [System] [CHAT] ...Gaga7 fish<--[HERE]
+[15:19:27] [Server thread/INFO]: [SamGaga7: Applied 19.0 damage to SamGaga7]
+[15:19:27] [Render thread/INFO]: [System] [CHAT] Applied 19.0 damage to SamGaga7
+[15:19:36] [Server thread/INFO]: [CodeXPs: Set own game mode to Survival Mode]
+[15:19:36] [Render thread/INFO]: [System] [CHAT] [CodeXPs: Set own game mode to Survival Mode]
+[15:19:44] [Server thread/INFO]: [SamGaga7: Applied 19.0 damage to SamGaga7]
+[15:19:44] [Render thread/INFO]: [System] [CHAT] Applied 19.0 damage to SamGaga7
+[15:20:21] [Server thread/INFO]: [SamGaga7: Applied 19.0 damage to SamGaga7]
+[15:20:21] [Render thread/INFO]: [System] [CHAT] Applied 19.0 damage to SamGaga7
+[15:21:00] [Render thread/INFO]: [System] [CHAT] Unknown or incomplete command, see below for error
+[15:21:00] [Render thread/INFO]: [System] [CHAT] ...orest.loop<--[HERE]
+[15:21:34] [Server thread/INFO]: [SamGaga7: Set own game mode to Creative Mode]
+[15:21:34] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[15:21:37] [Server thread/INFO]: [CodeXPs: Gave 99 [Torch] to CodeXPs]
+[15:21:37] [Render thread/INFO]: [System] [CHAT] [CodeXPs: Gave 99 [Torch] to CodeXPs]
+[15:21:49] [Server thread/INFO]: [SamGaga7: Set own game mode to Survival Mode]
+[15:21:49] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
+[15:22:08] [Server thread/INFO]: [SamGaga7: Set own game mode to Creative Mode]
+[15:22:08] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[15:22:24] [Server thread/INFO]: [SamGaga7: Teleported SamGaga7 to CodeXPs]
+[15:22:24] [Render thread/INFO]: [System] [CHAT] Teleported SamGaga7 to CodeXPs
+[15:22:32] [Server thread/INFO]: [CodeXPs: Set own game mode to Creative Mode]
+[15:22:32] [Render thread/INFO]: [System] [CHAT] [CodeXPs: Set own game mode to Creative Mode]
+[15:23:13] [Server thread/INFO]: [SamGaga7: Teleported SamGaga7 to CodeXPs]
+[15:23:13] [Render thread/INFO]: [System] [CHAT] Teleported SamGaga7 to CodeXPs
+[15:25:26] [Server thread/INFO]: [CodeXPs: Set own game mode to Survival Mode]
+[15:25:26] [Render thread/INFO]: [System] [CHAT] [CodeXPs: Set own game mode to Survival Mode]
+[15:25:43] [Server thread/INFO]: CodeXPs was slain by Zombie
+[15:25:43] [Render thread/INFO]: [System] [CHAT] CodeXPs was slain by Zombie
+[15:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3391ms or 67 ticks behind
+[15:27:17] [Render thread/WARN]: Received passengers for unknown entity
+[15:27:20] [Render thread/WARN]: Received passengers for unknown entity
+[15:27:26] [Render thread/WARN]: Received passengers for unknown entity
+[15:27:30] [Render thread/WARN]: Received passengers for unknown entity
+[15:27:37] [Render thread/WARN]: Received passengers for unknown entity
+[15:27:46] [Render thread/WARN]: Received passengers for unknown entity
+[15:27:49] [Render thread/WARN]: Received passengers for unknown entity
+[15:27:59] [Render thread/WARN]: Received passengers for unknown entity
+[15:27:59] [Render thread/WARN]: Received passengers for unknown entity
+[15:28:03] [Render thread/WARN]: Received passengers for unknown entity
+[15:28:03] [Render thread/WARN]: Received passengers for unknown entity
+[15:28:07] [Render thread/WARN]: Received passengers for unknown entity
+[15:28:07] [Render thread/WARN]: Received passengers for unknown entity
+[15:28:07] [Render thread/WARN]: Received passengers for unknown entity
+[15:28:07] [Render thread/WARN]: Received passengers for unknown entity
+[15:28:12] [Render thread/WARN]: Received passengers for unknown entity
+[15:28:41] [Server thread/INFO]: CodeXPs lost connection: Timed out
+[15:28:41] [Server thread/INFO]: CodeXPs left the game
+[15:28:41] [Render thread/INFO]: [System] [CHAT] CodeXPs left the game
+[15:28:52] [Render thread/WARN]: Received passengers for unknown entity
+[15:29:04] [User Authenticator #2/INFO]: UUID of player CodeXPs is 7e80abb5-2023-41e9-9287-55394cf8f757
+[15:29:06] [Server thread/INFO]: CodeXPs[/192.168.0.96:57382] logged in with entity id 11010 at (-272.2193158468087, 132.0, 33.826967758354975)
+[15:29:06] [Server thread/INFO]: CodeXPs joined the game
+[15:29:06] [Render thread/INFO]: [System] [CHAT] CodeXPs joined the game
+[15:29:09] [Render thread/WARN]: Received passengers for unknown entity
+[15:29:31] [Render thread/WARN]: Received passengers for unknown entity
+[15:29:39] [Server thread/INFO]: [CodeXPs: Teleported CodeXPs to SamGaga7]
+[15:29:39] [Render thread/INFO]: [System] [CHAT] [CodeXPs: Teleported CodeXPs to SamGaga7]
+[15:29:47] [Render thread/WARN]: Received passengers for unknown entity
+[15:29:56] [Render thread/WARN]: Received passengers for unknown entity
+[15:29:56] [Render thread/WARN]: Received passengers for unknown entity
+[15:29:57] [Render thread/WARN]: Received passengers for unknown entity
+[15:30:00] [Render thread/WARN]: Received passengers for unknown entity
+[15:30:00] [Render thread/WARN]: Received passengers for unknown entity
+[15:30:15] [Render thread/WARN]: Received passengers for unknown entity
+[15:30:49] [Render thread/WARN]: Received passengers for unknown entity
+[15:34:11] [Render thread/WARN]: Received passengers for unknown entity
+[15:34:16] [Render thread/WARN]: Received passengers for unknown entity
+[15:34:54] [Server thread/INFO]: [SamGaga7: Teleported CodeXPs to SamGaga7]
+[15:34:54] [Render thread/INFO]: [System] [CHAT] Teleported CodeXPs to SamGaga7
+[15:34:56] [Server thread/INFO]: [CodeXPs: Teleported SamGaga7 to SamGaga7]
+[15:34:56] [Render thread/INFO]: [System] [CHAT] [CodeXPs: Teleported SamGaga7 to SamGaga7]
+[15:43:48] [Render thread/WARN]: Received passengers for unknown entity
+[15:46:15] [Render thread/WARN]: Received passengers for unknown entity
+[15:46:40] [Render thread/WARN]: Received passengers for unknown entity
+[15:46:46] [Render thread/WARN]: Received passengers for unknown entity
+[15:46:48] [Render thread/WARN]: Received passengers for unknown entity
+[15:47:15] [Render thread/WARN]: Received passengers for unknown entity
+[15:47:50] [Render thread/WARN]: Received passengers for unknown entity
+[15:47:54] [Render thread/WARN]: Received passengers for unknown entity
+[15:48:09] [Render thread/WARN]: Received passengers for unknown entity
+[15:48:10] [Render thread/WARN]: Received passengers for unknown entity
+[15:48:13] [Render thread/WARN]: Received passengers for unknown entity
+[15:48:29] [Render thread/WARN]: Received passengers for unknown entity
+[15:49:24] [Render thread/WARN]: Received passengers for unknown entity
+[15:49:26] [Render thread/WARN]: Received passengers for unknown entity
+[15:49:28] [Render thread/WARN]: Received passengers for unknown entity
+[15:49:36] [Render thread/WARN]: Received passengers for unknown entity
+[15:50:00] [Render thread/WARN]: Received passengers for unknown entity
+[15:50:01] [Render thread/WARN]: Received passengers for unknown entity
+[15:50:14] [Render thread/WARN]: Received passengers for unknown entity
+[15:50:17] [Render thread/WARN]: Received passengers for unknown entity
+[15:50:20] [Render thread/WARN]: Received passengers for unknown entity
+[15:50:23] [Render thread/WARN]: Received passengers for unknown entity
+[15:50:33] [Render thread/WARN]: Received passengers for unknown entity
+[15:50:39] [Render thread/WARN]: Received passengers for unknown entity
+[15:50:43] [Render thread/WARN]: Received passengers for unknown entity
+[15:51:09] [Render thread/WARN]: Received passengers for unknown entity
+[15:51:15] [Render thread/WARN]: Received passengers for unknown entity
+[15:51:17] [Render thread/WARN]: Received passengers for unknown entity
+[15:51:18] [Render thread/WARN]: Received passengers for unknown entity
+[15:52:26] [Render thread/WARN]: Received passengers for unknown entity
+[15:52:36] [Render thread/WARN]: Received passengers for unknown entity
+[15:55:24] [Render thread/WARN]: Received passengers for unknown entity
+[16:06:56] [Render thread/WARN]: Received passengers for unknown entity
+[16:08:07] [Render thread/WARN]: Received passengers for unknown entity
+[16:08:23] [Render thread/WARN]: Received passengers for unknown entity
+[16:08:48] [Render thread/WARN]: Received passengers for unknown entity
+[16:09:36] [Render thread/WARN]: Received passengers for unknown entity
+[16:11:45] [Render thread/WARN]: Received passengers for unknown entity
+[16:11:50] [Render thread/WARN]: Received passengers for unknown entity
+[16:11:50] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:02] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:09] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:14] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:14] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:18] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:24] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:27] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:27] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:32] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:34] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:36] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:40] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:42] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:42] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:43] [Render thread/WARN]: Received passengers for unknown entity
+[16:12:44] [Render thread/WARN]: Received passengers for unknown entity
+[16:15:15] [Render thread/WARN]: Received passengers for unknown entity
+[16:15:39] [Render thread/WARN]: Received passengers for unknown entity
+[16:15:42] [Render thread/WARN]: Received passengers for unknown entity
+[16:16:08] [Server thread/INFO]: [SamGaga7: Teleported CodeXPs to SamGaga7]
+[16:16:08] [Server thread/WARN]: CodeXPs moved too quickly! -10.10272509267891,-35.53127920674662,-108.14959100229171
+[16:16:08] [Render thread/INFO]: [System] [CHAT] Teleported CodeXPs to SamGaga7
+[16:16:08] [Server thread/WARN]: CodeXPs moved too quickly! -10.10272509267891,-35.53127920674662,-108.14959100229171
+[16:16:17] [Render thread/WARN]: Received passengers for unknown entity
+[16:16:22] [Render thread/WARN]: Received passengers for unknown entity
+[16:16:23] [Render thread/WARN]: Received passengers for unknown entity
+[16:16:24] [Render thread/WARN]: Received passengers for unknown entity
+[16:16:26] [Render thread/WARN]: Received passengers for unknown entity
+[16:16:29] [Render thread/WARN]: Received passengers for unknown entity
+[16:16:29] [Render thread/WARN]: Received passengers for unknown entity
+[16:16:34] [Render thread/WARN]: Received passengers for unknown entity
+[16:17:09] [Render thread/WARN]: Received passengers for unknown entity
+[16:17:13] [Render thread/WARN]: Received passengers for unknown entity
+[16:17:21] [Render thread/WARN]: Received passengers for unknown entity
+[16:17:24] [Render thread/WARN]: Received passengers for unknown entity
+[16:17:25] [Render thread/WARN]: Received passengers for unknown entity
+[16:17:28] [Render thread/WARN]: Received passengers for unknown entity
+[16:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:17:45] [Render thread/WARN]: Received passengers for unknown entity
+[16:17:46] [Render thread/WARN]: Received passengers for unknown entity
+[16:17:48] [Render thread/WARN]: Received passengers for unknown entity
+[16:17:55] [Render thread/WARN]: Received passengers for unknown entity
+[16:18:13] [Server thread/INFO]: [SamGaga7: Teleported SamGaga7 to CodeXPs]
+[16:18:13] [Render thread/INFO]: [System] [CHAT] Teleported SamGaga7 to CodeXPs
+[16:18:13] [Render thread/WARN]: Received passengers for unknown entity
+[16:18:19] [Render thread/WARN]: Received passengers for unknown entity
+[16:18:23] [Render thread/WARN]: Received passengers for unknown entity
+[16:22:07] [Render thread/INFO]: Stopping!
+[16:22:07] [Server thread/INFO]: SamGaga7 lost connection: Disconnected
+[16:22:07] [Server thread/INFO]: SamGaga7 left the game
+[16:22:08] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:22:08] [Server thread/INFO]: Stopping server
+[16:22:08] [Server thread/INFO]: Saving players
+[16:22:08] [Server thread/INFO]: Saving worlds
+[16:22:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:overworld
+[16:22:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:the_nether
+[16:22:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Creative Test]'/minecraft:the_end
+[16:22:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (Creative Test): All chunks are saved
+[16:22:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:22:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:22:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

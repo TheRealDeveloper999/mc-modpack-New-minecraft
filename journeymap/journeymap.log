@@ -1,0 +1,70 @@
+[15:02:40] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[15:02:40] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[15:02:40] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[15:02:40] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[15:02:40] [Render thread/ERROR] [FileHandler] Couldn't locate icons for flat: D:\CurseForge\minecraft\Instances\New%20minecraft\mods\journeymap-1.19.4-5.9.4beta2-forge.jar\assets\journeymap\theme\flat
+[15:02:40] [Render thread/INFO] [PropertiesBase] core (FirstLoaded) Setting config file to version "5.9.4beta2": journeymap.core.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] core (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\config\5.9\journeymap.core.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] fullmap (FirstLoaded) Setting config file to version "5.9.4beta2": journeymap.fullmap.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] fullmap (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\config\5.9\journeymap.fullmap.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] minimap (Initialized) Setting config file to version "5.9.4beta2": journeymap.minimap.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] minimap (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\config\5.9\journeymap.minimap.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] minimap2 (FirstLoaded) Setting config file to version "5.9.4beta2": journeymap.minimap2.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] minimap2 (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\config\5.9\journeymap.minimap2.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] topo (FirstLoaded) Setting config file to version "5.9.4beta2": journeymap.topo.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] topo (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\config\5.9\journeymap.topo.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] webmap (FirstLoaded) Setting config file to version "5.9.4beta2": journeymap.webmap.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] webmap (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\config\5.9\journeymap.webmap.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] waypoint (FirstLoaded) Setting config file to version "5.9.4beta2": journeymap.waypoint.config
+[15:02:40] [Render thread/INFO] [PropertiesBase] waypoint (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\config\5.9\journeymap.waypoint.config
+[15:02:40] [Render thread/INFO] [?] Version: JourneyMap 1.19.4-5.9.4beta2, built with forge 1.19.4-45.0.1
+forge: 45.0.25
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+	MapBiome : singleplayer = true , multiplayer = true
+MiniMapProperties{state=SavedOk, file=journeymap.minimap.config, configVersion=5.9.4beta2, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=0, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+MiniMapProperties{state=SavedOk, file=journeymap.minimap2.config, configVersion=5.9.4beta2, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=0, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=true, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
+FullMapProperties{state=SavedOk, file=journeymap.fullmap.config, configVersion=5.9.4beta2, zoomLevel=0, showPlayers=true, waypointIconScale=1.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=1.0, showMobs=true, showPets=true, waypointLabelScale=1.0, preferredMapType=day, mobDisplay=jm.common.entity_display.dots, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, selfDisplayScale=1.0, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, dragScale=1, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=1.0}
+WaypointProperties{state=SavedOk, file=journeymap.waypoint.config, configVersion=5.9.4beta2, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
+WebMapProperties{state=SavedOk, file=journeymap.webmap.config, configVersion=5.9.4beta2, port=8080, enabled=false}
+CoreProperties{state=SavedOk, file=journeymap.core.config, configVersion=5.9.4beta2, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
+[15:02:41] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 560.02ms
+[15:02:43] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[15:02:43] [Render thread/ERROR] [FileHandler] Couldn't locate icons for flat: D:\CurseForge\minecraft\Instances\New%20minecraft\mods\journeymap-1.19.4-5.9.4beta2-forge.jar\assets\journeymap\theme\flat
+[15:02:43] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 0
+[15:02:43] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 105.89ms
+[15:04:05] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[15:04:05] [Thread-0/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[15:04:43] [Server thread/INFO] [PropertiesBase] global (FirstLoaded) Setting config file to version "5.9.4beta2": journeymap.server.global.config
+[15:04:43] [Server thread/INFO] [PropertiesBase] global (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\server\5.9\journeymap.server.global.config
+[15:04:43] [Server thread/INFO] [PropertiesBase] default (FirstLoaded) Setting config file to version "5.9.4beta2": journeymap.server.default.config
+[15:04:43] [Server thread/INFO] [PropertiesBase] default (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\server\5.9\journeymap.server.default.config
+[15:04:43] [Server thread/INFO] [PropertiesBase] minecraft~overworld (Initialized) Setting config file to version "5.9.4beta2": journeymap.server.minecraft~overworld.config
+[15:04:43] [Server thread/INFO] [PropertiesBase] minecraft~overworld (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\server\5.9\journeymap.server.minecraft~overworld.config
+[15:04:43] [Server thread/INFO] [PropertiesBase] minecraft~the_nether (Initialized) Setting config file to version "5.9.4beta2": journeymap.server.minecraft~the_nether.config
+[15:04:43] [Server thread/INFO] [PropertiesBase] minecraft~the_nether (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\server\5.9\journeymap.server.minecraft~the_nether.config
+[15:04:43] [Server thread/INFO] [PropertiesBase] minecraft~the_end (Initialized) Setting config file to version "5.9.4beta2": journeymap.server.minecraft~the_end.config
+[15:04:43] [Server thread/INFO] [PropertiesBase] minecraft~the_end (Valid) Creating config file: D:\CurseForge\minecraft\Instances\New minecraft\journeymap\server\5.9\journeymap.server.minecraft~the_end.config
+[15:04:48] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:04:48] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:04:48] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\CurseForge\minecraft\Instances\New minecraft\journeymap\data\sp\Creative Test\waypoints
+[15:04:48] [Render thread/INFO] [JourneymapClient] Mapping started in D:\CurseForge\minecraft\Instances\New minecraft\journeymap\data\sp\Creative Test\overworld. Memory: 1630MB total, 373MB free 
+[15:04:49] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
+[15:17:20] [Render thread/INFO] [DeathPointHandler] SamGaga7 died at BlockPos{x=-144, y=63, z=36}. Deathpoints enabled: true. Deathpoint created: true
+[15:17:28] [Render thread/INFO] [DeathPointHandler] SamGaga7 died at BlockPos{x=6, y=80, z=-5}. Deathpoints enabled: true. Deathpoint created: true
+[15:26:42] [Render thread/INFO] [JourneymapClient] Mapping halted in D:\CurseForge\minecraft\Instances\New minecraft\journeymap\data\sp\Creative Test\minecraft:overworld
+[15:26:44] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[15:26:44] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[15:26:44] [Render thread/INFO] [WaypointStore] Loaded 2 waypoints from D:\CurseForge\minecraft\Instances\New minecraft\journeymap\data\sp\Creative Test\waypoints
+[15:26:44] [Render thread/INFO] [JourneymapClient] Mapping started in D:\CurseForge\minecraft\Instances\New minecraft\journeymap\data\sp\Creative Test\the_nether. Memory: 3492MB total, 2308MB free 
+[16:09:59] [Render thread/INFO] [StatTimer] TileDrawStep.updateRegionTexture hit max count, 1000000
+[16:10:12] [Render thread/INFO] [StatTimer] TileDrawStep.draw(low) hit max count, 1000000
+[16:22:07] [Render thread/INFO] [JourneymapClient] Mapping halted in D:\CurseForge\minecraft\Instances\New minecraft\journeymap\data\mp\offline\minecraft:the_nether
+[16:22:12] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
